@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fYi6NfzSA7ubSLmqjJY2NPju05sjf0xl+ONjHKyL2jZKMmbO0rYUuE4vQEEr613XuEp4G5zYC8lQ7VflERRUVg==",
+  "dgSpecHash": "H6dwLYwxseBvLLMxVfS2DaXFhDq/GCFA/5zvBujw48vyrA74+U3rQY2s4jHW0X0J65nMpllNgzl7FPthnFs7Zg==",
   "success": true,
   "projectFilePath": "C:\\Users\\damer\\OneDrive\\Desktop\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,8 @@
     "C:\\Users\\damer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
     "C:\\Users\\damer\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
     "C:\\Users\\damer\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\damer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\damer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\damer\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "C:\\Users\\damer\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
     "C:\\Users\\damer\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
